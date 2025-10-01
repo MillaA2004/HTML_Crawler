@@ -1,0 +1,12 @@
+PRINT//
+
+PRINT//html/body/p[2]
+
+PRINT//html/body/p[@id="p3"]
+
+PRINT//html/body/div/*
+
+SET//html/body/p[2]"AAA"
+
+SET//html/body/div/div"<b>Text4</b>"
+
