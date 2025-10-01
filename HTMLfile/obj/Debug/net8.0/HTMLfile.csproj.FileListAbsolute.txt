@@ -1,0 +1,28 @@
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\bin\Debug\net8.0\HTMLfile.exe
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\bin\Debug\net8.0\HTMLfile.deps.json
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\bin\Debug\net8.0\HTMLfile.runtimeconfig.json
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\bin\Debug\net8.0\HTMLfile.dll
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\bin\Debug\net8.0\HTMLfile.pdb
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.AssemblyInfoInputs.cache
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.AssemblyInfo.cs
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.csproj.CoreCompileInputs.cache
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.dll
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\obj\Debug\net8.0\refint\HTMLfile.dll
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.pdb
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.genruntimeconfig.cache
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Copy\HTMLfile\obj\Debug\net8.0\ref\HTMLfile.dll
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\bin\Debug\net8.0\HTMLfile.exe
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\bin\Debug\net8.0\HTMLfile.deps.json
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\bin\Debug\net8.0\HTMLfile.runtimeconfig.json
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\bin\Debug\net8.0\HTMLfile.dll
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\bin\Debug\net8.0\HTMLfile.pdb
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.AssemblyInfoInputs.cache
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.AssemblyInfo.cs
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.csproj.CoreCompileInputs.cache
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.dll
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\obj\Debug\net8.0\refint\HTMLfile.dll
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.pdb
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\obj\Debug\net8.0\HTMLfile.genruntimeconfig.cache
+C:\Users\Milena\Desktop\Uni\HTMLfile - 471223028 - Final - Copy\HTMLfile\obj\Debug\net8.0\ref\HTMLfile.dll
